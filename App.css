@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://media1.tenor.com/m/mGKQa3avS8AAAAAd/website-background.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 60%;
+  text-align: center;
+}
+
+.custom-file {
+  margin-bottom: 1rem;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.alert {
+  width: 60%;
+  margin: auto;
+}
