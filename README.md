@@ -22,7 +22,7 @@ To run this application on your localhost, follow the steps below:
    for backend
    cd backend
    pip install -r requirements.txt
-   uvicorn main:app --host 0.0.0.0 --port $PORT
+   uvicorn main:app --host 0.0.0.0 --port 9000
    ```
    
 
