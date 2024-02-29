@@ -1,5 +1,5 @@
-PCOS Checker with FastAPI
-Introduction
+#PCOS Checker with FastAPI
+##Introduction
 This project uses FastAPI to create a web application that checks the PCOS disease  based on the images it contains. If the images are deemed "healthy" according to predefined criteria, the website is considered healthy; otherwise, it is marked as unhealthy.
 
 Installation
