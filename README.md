@@ -13,9 +13,20 @@ To run this application on your localhost, follow the steps below:
    ```sh
    git clone https://github.com/Kshitizsingh452/MISHUB_.git
    cd website
-npm start
-pip install -r requirements.txt
-uvicorn main:app --host 0.0.0.0 --port $PORT
+   cd front
+   npm i
+   npm start
+   ```
+
+   ```
+   for backend
+   cd backend
+   pip install -r requirements.txt
+   uvicorn main:app --host 0.0.0.0 --port $PORT
+   ```
+   
+
+
 
 ## Usage
 
