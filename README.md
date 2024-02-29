@@ -31,6 +31,7 @@ To run this application on your localhost, follow the steps below:
 <img width="739" alt="Screenshot 2024-02-29 at 10 46 35 AM" src="https://github.com/Kshitizsingh452/MISHUB_/assets/74282676/8990ea21-9b49-4924-bbd6-38de8c671778">
 <img width="739" alt="Screenshot 2024-02-29 at 10 46 47 AM" src="https://github.com/Kshitizsingh452/MISHUB_/assets/74282676/c4a085d7-a5c7-4e68-bf74-8ca0d5368959">
 <img width="739" alt="Screenshot 2024-02-29 at 10 46 58 AM" src="https://github.com/Kshitizsingh452/MISHUB_/assets/74282676/173b9f5a-21f6-4f65-9258-ecfeb7af3095">
+
 ## Usage
 
 After completing the installation steps, you can access the web application at `http://localhost:$PORT`. The application will automatically check the health of the website based on its images and provide the result.
